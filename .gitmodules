@@ -1,0 +1,3 @@
+[submodule "planetoplot"]
+	path = planetoplot
+	url = ./planetoplot
